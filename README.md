@@ -1,6 +1,6 @@
 # SkillSync Pro - Workforce Intelligence Platform  
 
-![Show Image](assets/sga1.jpg)
+![Show Image](assets/sga1.png)
 ---
 
 ## 🎓 Overview  
@@ -166,19 +166,19 @@ The platform tracks and analyzes:
 - **GitHub:** [blog.skillsyncpro.com](https://github.com/cersei568/skills_gap_analyzer)  
 
 ---
-![Show Image](assets/sga2.jpg)
+![Show Image](assets/sga2.png)
 
-![Show Image](assets/sga3.jpg)
+![Show Image](assets/sga3.png)
 
-![Show Image](assets/sga4.jpg)
+![Show Image](assets/sga4.png)
 
-![Show Image](assets/sga5.jpg)
+![Show Image](assets/sga5.png)
 
-![Show Image](assets/sga6.jpg)
+![Show Image](assets/sga6.png)
 
-![Show Image](assets/sga7.jpg)
+![Show Image](assets/sga7.png)
 
-![Show Image](assets/sga8.jpg)
+![Show Image](assets/sga8.png)
 
 
 
