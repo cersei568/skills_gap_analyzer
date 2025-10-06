@@ -162,8 +162,8 @@ The platform tracks and analyzes:
 
 ## 🔗 Links  
 
-- **Demo:** [demo.skillsyncpro.com](https://demo.skillsyncpro.com)  
-- **Blog:** [blog.skillsyncpro.com](https://blog.skillsyncpro.com)  
+- **Demo:** [demo.skillsyncpro.com](https://skillssyncpro.streamlit.app)  
+- **GitHub:** [blog.skillsyncpro.com](https://github.com/cersei568/skills_gap_analyzer)  
 
 ---
 ![Show Image](assets/sga2.jpg)
